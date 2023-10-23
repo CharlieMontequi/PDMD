@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejmplo-botones</string>
+    <string name="bontonSaludar">Pulsame</string>
+    <string name="textViewSaludo">Bienvenido a PMDM</string>
+    <string name="textobotonVolver">volver</string>
+
+</resources>
